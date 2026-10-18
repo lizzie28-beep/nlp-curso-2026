@@ -1,0 +1,401 @@
+titular,etiqueta_llm,confianza,modelo_llm,fecha
+Señor de los Milagros,economia,0.371,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal vs Comerciantes Unidos,deportes,0.827,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alianza Atlético vs Universitario,deportes,0.858,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Vóley Alianza Lima vs Rebaza Acosta,deportes,0.937,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Temblor en Perú,deportes,0.368,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Precio del dólar,economia,0.569,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Partidos de hoy,deportes,0.796,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Horóscopo de hoy,politica,0.487,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Comisión de Constitución,politica,0.701,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fernando Cerimedo tenía operadores en las elecciones del Perú,politica,0.393,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Comisión de Constitución del Senado continuará debate de pedido de facultades,politica,0.488,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Del TikTok al autoritarismo: Keiko Fujimori cambia de estrategia discursiva,politica,0.547,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+León Trahtemberg: “No hay forma de escribir un libro si no hay ideología”,politica,0.518,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fujimori ante el riesgo de un meganiño: “Más que eso no podemos hacer”,politica,0.489,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Jorge Nieto plantea aprobar las 20 facultades respaldadas por Diputados y tramitar las adicionales como proyectos de ley,politica,0.382,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Carlos Infante: “La matanza de Uchuraccay es un golpe terrible a la memoria de los periodistas”,politica,0.612,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Número de regiones que irán a reelección aumentó por dispersión de voto,politica,0.444,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Expertos señalan que pedido de facultades en relación a la DINI tiene tinte político,politica,0.896,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Debate de pedido de facultades sigue entrampado en el Senado por falta de consenso entre oficialismo y oposición,politica,0.809,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Rosa Bartra asegura que la bicameralidad está mal estructurada: ""No es viable, va a terminar en una implosión""",politica,0.458,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fiscalía pide crédito suplementario al Congreso para pagar sueldos de fiscales en noviembre y diciembre,politica,0.395,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Periodista Fernando Llanos lanza ácida crítica contra gobierno de Keiko Fujimori y la compara con Dina Boluarte: ""Todos los días se vive lo mismo""",politica,0.765,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Ruth Luque cuestiona próximos viajes de Keiko Fujimori: ""Cada vez se parece más a Dina Boluarte""",deportes,0.544,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es falso que partidos de oposición hayan creado una comisión para investigar a Keiko Fujimori por las protestas,politica,0.523,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Dina Boluarte: archivan investigación contra expresidenta por presunto enriquecimiento ilícito,politica,0.46,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"López Aliaga compara a Fujimori con Boluarte: ""No necesitas tantas facultades (...) Ella sacaba un decreto cada semana""",politica,0.427,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Keiko Fujimori es denunciada por presunta omisión al no vacar a procuradora con proceso penal activo,politica,0.554,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Dina Boluarte reaparece en acto público después de más de 10 meses: “Yo estoy feliz”,deportes,0.287,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Juntos por el Perú plantea comisión de verdad y justicia para investigar las protestas del sur de 2022-2023,politica,0.481,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Gobierno de Keiko Fujimori nombra como viceministros a exfuncionarios de la gestión de Dina Boluarte,politica,0.431,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Milagros Samillán: “Queremos decirle a la señora Keiko Fujimori que sin justicia no puede haber reconciliación”,politica,0.432,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Familiares de víctimas de la dictadura fujimorista anuncian protestas contra Keiko Fujimori este 27 y 28 de julio,politica,0.682,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Familiares de víctimas de la dictadura fujimorista anuncian protestas contra Keiko Fujimori este 27 y 28 de julio,politica,0.682,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"¿Quién es Dina Boluarte, la primera presidenta del Perú, que sucedió tras la vacancia a Castillo?",politica,0.449,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Dina Boluarte: ¿quién es la abogada que defiende a la presidenta por el caso de genocidio?,politica,0.53,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Temblor en Perú,deportes,0.368,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Precio del dólar,economia,0.569,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Resultados Sinuano Noche,deportes,0.419,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Partidos de hoy,deportes,0.796,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Horóscopo de hoy,politica,0.487,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Condenan a 14 años de cárcel a conductor de movilidad escolar por tocamientos indebidos a niña de 7 años en VMT,politica,0.446,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Bono de reconocimiento ONP: Poder Judicial admite demanda para exigir entrega a afiliados que pasaron a una AFP desde 2002,politica,0.34,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Defensoría del Pueblo denuncia afectación al plazo razonable en el caso Sánchez Paredes,politica,0.465,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Andrés Hurtado reaparece desde prisión pidiendo por su libertad y recuerda a su hija de 10 años: “Soy su único sostén, ¿cómo puede sobrevivir?”",politica,0.365,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Nadeska Widausky: Poder Judicial confirma detención con fines de extradición hacia Bélgica por presunta trata de personas,politica,0.352,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+PPK: Poder Judicial levanta impedimento de salida del país tras archivar investigación por aportes a su campaña,politica,0.386,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Temible ‘Loco Joe’, cabecilla de Los Chimbotanos, cayó en la frontera de Argentina con Brasil",deportes,0.44,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Testigo clave del crimen de ""China Polo"" muere en choque en Venezuela",deportes,0.712,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Caso ‘El Monstruo’: Perú pide a Paraguay ampliar extradición de Erick Moreno por 26 hechos delictivos,politica,0.406,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Por fraude genérico detienen a María Colla, conocida terapeuta, actriz y arquitecta",politica,0.422,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Billeteras digitales,politica,0.453,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Gobierno destina S/12,4 millones a Defensa para pagar impuestos de sus contrataciones",politica,0.482,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Niño 2027: restaurantes enfrentarían mayores costos por alza del pescado, limón y papa",economia,0.44,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Produce cierra el 2026 sin segunda temporada de anchoveta y la SNP pide apoyo al Gobierno,politica,0.301,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Gas natural: Colegio de Ingenieros cuestiona adenda de Cálidda y pide licitar proyectos en regiones,politica,0.374,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Precio del dólar hoy en Perú, viernes 16 de octubre: consulta el tipo de cambio para compra y venta",economia,0.468,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Movistar prepara su red en Lambayeque ante posibles emergencias por el Fenómeno El Niño,politica,0.322,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Halloween y Día de la Canción Criolla: pymes esperan elevar sus ventas hasta 12% en octubre,politica,0.343,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"AFP peruanas: el 48,9% de los fondos está invertido en el exterior, ¿pueden sufrir pérdidas como en Chile?",economia,0.456,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Perú recibió 2,26 millones de turistas extranjeros hasta agosto, 0,4% menos que en 2025",economia,0.456,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Facultades legislativas: GEPS cuestiona pedido del Ejecutivo por falta de precisión en cambios tributarios y laborales,politica,0.419,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Trabajo presencial: 49% de peruanos rechazó una oferta laboral por exigir presencialidad,politica,0.424,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Empleo en Perú crece 1,8%, pero nueve ciudades pierden trabajadores: Cajamarca lidera la caída",economia,0.596,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"INEI: desempleo cae a 5% en Lima, pero el subempleo por ingresos supera los 1,6 millones de trabajadores",economia,0.555,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alertan sobre correos falsos de empleo en América Latina que podrían robar tus cuentas y datos personales,politica,0.415,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Empleo en Perú: 45% de los trabajadores prioriza el crecimiento profesional frente a la estabilidad,economia,0.576,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Más de 293.000 egresados técnicos en Lima están subempleados: ¿puede la IA mejorar la empleabilidad?,ciencia_tecnologia,0.451,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Elecciones: 7 millones de trabajadores llegan a las urnas con ingresos por debajo del sueldo mínimo,economia,0.425,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Incertidumbre por evolución de la economía retrasan decisión de empresas peruanas para contratar personal,economia,0.573,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Empleo exportador supera 1,5 millones, pero cuatro sectores industriales siguen en racha negativa",economia,0.347,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"“Si el PBI crece 3%, no absorbe a los jóvenes”: por qué el mercado laboral peruano sigue excluyendo, según laboralista",politica,0.483,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mypes en Perú: buscan impulsar su crecimiento e internacionalización ante caída del empleo,politica,0.472,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Empresas en crisis: el 31,3% de las reuniones de acreedores estuvo vinculado al cierre de negocios",politica,0.384,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Perú aumenta a más del doble sus compras de genética avícola de Brasil y apunta a mayores importaciones de cerdo,economia,0.447,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Envíos de carga pesada crecen hasta 17%: DHL destinará US$1,9 millones a flota e infraestructura",politica,0.308,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+La panadera japonesa de 84 años que duerme cinco horas y trabaja casi 20 al día: lleva 55 años en su negocio y no piensa jubilarse,economia,0.518,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Tu municipalidad te pide requisitos sin sentido para abrir un negocio? Indecopi te ayuda por WhatsApp a frenar requisitos abusivos e ilegales en trámites,politica,0.404,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Fiestas Patrias 2026: pymes proyectan crecer hasta 8% ante la recuperación del consumo interno, ¿qué sectores impulsarán más sus ventas?",politica,0.403,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Movistar Empresas y Crece del BCP se unen para impulsar la digitalización de nuevos negocios,economia,0.35,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Inseguridad golpea a las mypes: 99% de bodegueros sufrió extorsiones y gasta hasta S/7.000 al mes en seguridad, ¿qué advierten los gremios?",politica,0.66,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Carreras de negocios internacionales y marketing: las opciones de la Universidad Privada San Juan Bautista para el mercado laboral actual,economia,0.494,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Perú vuelve al top 10 mundial de países más complejos para hacer negocios, según TMF Group: ¿a qué países supera?",politica,0.303,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mypes exigen al Congreso priorizar agenda urgente contra extorsión y crisis económica,politica,0.594,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Grupo peruano Vega cumple 30 años y proyecta expansión en cuatro distritos más,economia,0.357,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Exportaciones peruanas crecen 34,3% y superan los US$74 mil millones, impulsadas por la minería",politica,0.338,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Minería peruana: 92,5% de profesionales evalúa cambiar de empleo pese a salarios competitivos",economia,0.381,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es impreciso que los mineros artesanales tengan los mismos requisitos de formalización que la gran minería,politica,0.442,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Científicos llevan a Papa León XIV evidencia del impacto minero en la Amazonía: 139 mil hectáreas de bosque perdidas en Perú,ciencia_tecnologia,0.482,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Minería en Perú: producción de cobre crece 80,3% en Áncash, pero otras regiones registran caídas",economia,0.356,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Moody’s mantiene la calificación de Perú, pero advierte riesgos por gasto público, instituciones y ejecución de inversiones",politica,0.409,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Esta gigantesca máquina se abrirá paso por los Andes para construir dos túneles de 14 kilómetros: el proyecto desafía una compleja zona geológica a 3.600 metros,politica,0.322,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es falso que las empresas mineras no paguen impuestos en el Perú: están sujetas a distintos tributos y obligaciones,politica,0.451,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+SUNAT prevé recaudar más de S/214.000 millones en 2027: ¿qué sostiene la meta de ingresos?,deportes,0.426,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Más de 1.540 alces fueron abandonados en antiguas minas de carbón: casi 30 años después, la manada protagonizó una explosión poblacional nunca antes vista",politica,0.343,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Comisión de Energía y Minas calificó de ""no viable"" dar facultades legislativas al Poder Ejecutivo en el sector",politica,0.404,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Inversión minera: más de US$20.000 millones en proyectos están detrás de la proyección de crecimiento de 4%,politica,0.505,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tabla de posiciones Torneo Clausura y Acumulado de la Liga 1 2026: resultados de los partidos de la fecha 12,deportes,0.694,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Pablo Guede expone el preocupante estado de Esteban Pávez tras salir lesionado ante Atlético Grau: ""Creo que se rompió""",deportes,0.56,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Pablo Guede ningunea a Franco Velazco, administrador de Universitario, tras polémicas declaraciones en su contra: ""No sé quién es, ¿habla de fútbol?""",deportes,0.537,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Luis Carlos Arias Schreiber: “Si Alejandro Olmedo hubiera pertenecido a una élite limeña o arequipeña, sería extraordinario lo que ha logrado”",politica,0.474,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alianza Lima se hizo fuerte en Matute: venció 3-1 a Atlético Grau y se mantiene en la lucha por el Torneo Clausura de la Liga 1 2026,deportes,0.58,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Rugieron Las Pumas! Universitario venció 3-0 a Deportivo Soan y empieza con pie derecho la Liga Peruana de Vóley 2026-27,deportes,0.778,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Mia Shalit, arquera de Universitario, destaca el nivel de las cremas pese a derrota ante Palmeiras por Copa Libertadores Femenina: ""Estuvimos cerca""",deportes,0.736,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Jude Bellingham peruano? Mister Loreto causa revuelo por su gran parecido con el futbolista británico,politica,0.447,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El fútbol peruano más internacional que nunca: deportistas que la rompen (y las ligas quieren),deportes,0.768,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Jefferson Farfán sorprende al regalarle un departamento a joven promesa del fútbol: ""Lo hago de corazón""",deportes,0.693,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Partidos de hoy, jueves 16 de julio: ¿a qué hora y dónde ver fútbol EN VIVO?",deportes,0.854,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El fútbol escolar y la lección que podemos perder, por Diego Alonso Sánchez",deportes,0.92,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Mundial 2026: aficionados de América Latina impulsan la economía en países anfitriones con 31% más transacciones, ¿qué países lideraron el gasto?",economia,0.565,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Qué es el Proyecto Japón 2092? El ambicioso plan de 100 años con el que la selección japonesa quiere ganar su primer Mundial,deportes,0.383,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Mundial de Fútbol y las excusas para educar más allá de las figuritas, por Diego Alonso Sánchez",deportes,0.847,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Mundial 2026 será diferente a todo lo anterior: 48 selecciones, más partidos y nuevas reglas",deportes,0.691,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Austria vuelve al Mundial tras 28 años con triunfo: derrotó 3-1 a Jordania en California,deportes,0.684,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"En lo que dura un partido de fútbol, 8 niñas sufren violencia en Perú: iniciativa busca prevenirla desde el deporte",deportes,0.432,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Qué selección inventó las estrellas en la camiseta? La historia del país que inició una tradición mundial en el fútbol,deportes,0.933,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Selección peruana confirmó nuevo amistoso para la fecha FIFA de noviembre: la 'Bicolor' enfrentará a Bolivia en Lima,deportes,0.529,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Informe: la selección peruana cerró su travesía por Norteamérica con un alarmante retroceso futbolístico,politica,0.479,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mano Menezes plantea un giro en la elección de rivales tras últimos resultados de la selección peruana: “Es importante empezar a ganar”,economia,0.407,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Perú suma una nueva derrota: cayó 2-0 ante Colombia y cerró su gira de amistosos internacionales por la fecha FIFA 2026,deportes,0.608,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Carlos Zambrano se sincera sobre el presente de la selección peruana: ""Va a ser duro el recambio""",politica,0.408,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Mano Menezes descartó que desconvocaran a Oliver Sonne por lesión: ""Anticipamos el regreso con su club""",deportes,0.471,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Oliver Sonne fue desconvocado de la selección peruana y no jugará ante Colombia,politica,0.418,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mano Menezes tras derrota de Perú ante Canadá: DT admite desgaste y anuncia cambio de plan,politica,0.31,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Perú - Colombia: fecha, hora y canal confirmado del amistoso internacional de la selección por fecha FIFA",deportes,0.648,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Perú dejó una pobre imagen en su tercer amistoso: cayó 2-0 ante Canadá por la fecha FIFA 2026,deportes,0.701,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Perú vs Canadá EN VIVO HOY: transmisión del partido amistoso por fecha FIFA 2026,deportes,0.798,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Mano Menezes contento tras partido de Perú ante México: ""Encontramos 3 jugadores que estarán en Eliminatorias""",deportes,0.475,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Gatorade celebra los 125 años de Alianza Lima con el regreso de su edición limitada sabor uva,economia,0.304,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Gino Vegas sobre su relación con Cenaida Uribe: ""Con la gente de Alianza Lima converso, con ella no""",politica,0.45,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Alianza Lima - Atlético Grau: fecha, hora y canal de TV para ver el partido por la fecha 12 del Torneo Clausura de la Liga 1 2026",deportes,0.782,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Pablo Guede estalló contra el VAR tras victoria de Alianza Lima ante Cusco FC: ""No quieren que salgamos campeones""",deportes,0.356,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Menor de 15 años fue acribillado tras salir de partido de Sport Boys con Alianza Atlético en el Callao,deportes,0.559,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Triunfazo blanquiazul! Alianza Lima venció 2-1 a Cusco FC y se mantiene en la lucha por el Torneo Clausura de la Liga 1 2026,deportes,0.698,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Fixture de Alianza Lima en la Liga Peruana de Vóley 2026: partidos, fechas y rivales de las blanquiazules",deportes,0.873,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Triunfo blanquiazul! Alianza Lima venció 3-2 a Regatas en el partido de presentación por la Noche Regatas 2026,deportes,0.711,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+OPPO Reno16 a prueba: una opción para quienes priorizan la cámara y la creación de contenido,politica,0.386,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Corea del Sur busca fortalecerse en América Latina al firmar acuerdo clave con un país para proyectos de tecnología e innovación,politica,0.376,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"La independencia también se financia, por Ricardo Trotti",politica,0.482,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Huawei Mate 80 Pro: prueba real de su cámara, zoom y rendimiento en fotografía",deportes,0.959,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alu: cómo una idea de vender productos gamer terminó siendo una de las tiendas peruanas de licenciados que más rápido crece,deportes,0.574,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cyber Wow 2026 día 3: Alu entra en la recta final con 48 horas de descuento por delante,deportes,0.529,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cyber Wow 2026: Alu confirma descuentos de hasta 45% en cuatro líneas del 20 al 23 de abril,deportes,0.44,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cyber wow 2026: alu confirma descuentos de hasta 45% en cuatro líneas del 20 al 23 de abril,deportes,0.317,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Utilizas billeteras digitales en tu smartphone? Así puedes cuidar tu dinero y evitar fraudes,politica,0.379,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Elecciones 2026: así puedes usar la IA para evitar la desinformación y votar con más seguridad,politica,0.487,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Samsung podrá usar AirDrop con los iPhone? Así funciona la última actualización de compatibilidad,politica,0.315,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El registro más importante de la batería de tu smartphone: así sabrás cuánto tiempo de vida le queda,deportes,0.286,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+UPN es la primera institución de Trujillo y Cajamarca en transferir y adoptar una tecnología para el mercado del café,politica,0.366,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es falso que BTS haya visitado Machu Picchu durante su visita al Perú: imagen fue elaborada con inteligencia artificial,politica,0.311,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Exportaciones peruanas vinculadas a la inteligencia artificial crecen 16,6%, pero siguen rezagadas frente a Brasil",politica,0.346,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El 39% de las habilidades laborales cambiará hacia 2030: qué capacidades serán más necesarias,economia,0.365,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tu voz podría revelar si envejeces más rápido: científicos crean un “reloj del habla” con IA que estimaría tu edad biológica,ciencia_tecnologia,0.662,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es falso que Catherin Palomino aparezca en una antigua foto con un arma blanca: imagen fue generada con IA,politica,0.382,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Es falso que video de camión que avanza con una de sus llantas sobre patineta haya sido grabado en Perú: fue elaborado con inteligencia artificial,deportes,0.37,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Ingenieros peruanos crean ‘Pulso’, tecnología con IA para apoyar el rescate de personas y ganan concurso de Google",ciencia_tecnologia,0.419,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Joven de 18 años analiza más de 5.000 noticias con la IA de OpenAI y gana US$175.000 por revelar sesgos raciales en la prensa,politica,0.44,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Indecopi ratifica en segunda instancia que creaciones exclusivas de IA no gozan de derechos de autor,politica,0.453,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El ambicioso proyecto que busca generar electricidad con el océano para 32.000 hogares, alimentar centros de IA y producir agua potable",politica,0.314,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Xiaomi presenta en Perú la Serie REDMI Note 17, diseñada para durar años gracias a la calidad REDMI Titán",deportes,0.369,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Bélgica crea una tecnología capaz de recuperar más de 100.000 toneladas de materiales de edificios demolidos para construir nuevas obras,economia,0.416,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Angie Bonino: “Hay muchos festivales y eventos complacientes con la tecnología y la ciencia”,ciencia_tecnologia,0.882,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Importaciones de tecnología crecen 46% y superan los US$1.700 millones en Perú,politica,0.315,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Kenia diseña la primera motocicleta eléctrica de producción con más de 1 km de autonomía por minuto de carga: su batería resiste el agua y cuenta con GPS,economia,0.344,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+China muestra un robot aspirador que sube y limpia escaleras por sí solo: combina ruedas y patas articuladas para superar obstáculos,deportes,0.298,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+China presenta una refrigeradora que prepara agua con gas en un minuto: ofrece 3 niveles de efervescencia y se conecta al celular,economia,0.388,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Bitel lidera ranking 5G de OSIPTEL en agosto,deportes,0.457,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+WhatsApp puede suspender tu cuenta por estas prácticas: qué hacer si recibes un bloqueo y cómo pedir una revisión,politica,0.424,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"China participa en la creación de una presa inflable en el segundo país más grande de América Latina: mediría 42,5 metros y regularía un histórico río",politica,0.437,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Un trabajador afortunado encuentra varios módulos de memoria RAM DDR4 de 32GB en el contenedor de basura de su trabajo; su jefe le dice: “Puedes quedártelos”,economia,0.48,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Escolares ganan concurso de innovación Reto Marte y buscan apoyo para representar a Perú en España,ciencia_tecnologia,0.301,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Descubren en Alaska más de 80.000 piezas arqueológicas en un campamento de cazadores de mamuts que habitaron la región hace 13.800 años,politica,0.36,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Científicos descubren que los corales sanos pueden ayudar a recuperar a los que han perdido su color en solo cinco días,ciencia_tecnologia,0.386,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Científicos de la Universidad de Stanford encuentran la forma de regenerar el cartílago de la rodilla y reducir el riesgo de osteoartritis,ciencia_tecnologia,0.679,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Peruano convierte celular en microscopio para detectar anemia con IA: pruebas arrojan 92% de precisión,ciencia_tecnologia,0.296,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Guatemala escondía un pasado bajo el mar: hallan fósiles de moluscos que vivieron hace hasta 90 millones de años,politica,0.363,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Loro incapaz de volar estuvo a punto de desaparecer, pero científicos de Nueva Zelanda aplicaron nuevas técnicas y lograron salvarla de la extinción",ciencia_tecnologia,0.367,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Investigadores de Dinamarca crean el primer cemento vivo que genera electricidad y podría convertir los edificios en baterías de energía,economia,0.4,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El agua de un hotel de US$80 escondía 2 nuevas especies: su origen guarda pistas de hace 100 millones de años,economia,0.313,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+China genera electricidad con paneles solares a 10 metros bajo el mar: podrían alimentar sensores submarinos durante más de 5 años,ciencia_tecnologia,0.334,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Un hombre transformó un antiguo terreno de maní en un lago para criar peces, pero no pensó que la fauna silvestre domine todo en solo 1.000 días",politica,0.356,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Youna arremete contra Samahara Lobatón antes de su beso con Renato Rossini Jr: “Estoy harto”,politica,0.509,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cantante del grupo Los Villacorta se pronuncia tras atropellar a adulto mayor y ser detenido por la policía: “No fue mi intención causar daño”,politica,0.375,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Pamela Franco y Christian Cueva sorprenden al lanzar su propio emprendimiento en redes sociales: “Me pueden escribir”,economia,0.311,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Novio de Pamela López grita su amor por la empresaria y le hace inesperada promesa: “En las buenas y malas”,economia,0.395,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Influencer Gracie Bon conmueve al ayudar a afectados por el fuerte terremoto que sacudió Panamá,politica,0.403,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal toma la punta del Torneo Clausura: venció 1-0 a UTC en Cajamarca por la Liga 1,deportes,0.85,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Goleada celeste! Sporting Cristal venció 5-0 a ADT y clasificó a la final de la Copa Caliente de la Liga 2026,deportes,0.884,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Sporting Cristal - ADT: fecha, hora y canal confirmado del partido de vuelta por las semifinales de la Copa Caliente de Liga 2026",deportes,0.921,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal sacó ventaja en Tarma: venció 1-0 a ADT en el partido de ida por las semifinales de la Copa Caliente de la Liga 2026,deportes,0.79,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Triunfo blanquiazul! Alianza Lima venció 2-0 a Sporting Cristal y se mantiene como único líder de la Liga Femenina 2026,deportes,0.636,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal vs Atlético Grau EN VIVO: a qué hora y dónde ver el partido de HOY por la fecha 10 del Torneo Clausura de la Liga 1 2026,deportes,0.82,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Partido Sporting Cristal vs CD Moquegua no se juega hoy: Liga 1 reprogramó el duelo del Torneo Clausura,deportes,0.666,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal - CD Moquegua: fecha y hora del partido por la fecha 9 del Torneo Clausura de la Liga 1 2026,deportes,0.828,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Sporting Cristal volvió a ganar! equipo celeste goleó por 5-0 a Los Chankas y revive sus esperanzas en el Clausura,deportes,0.847,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Julio César Uribe se quiebra tras sufrir agresión y descarta renunciar a Sporting Cristal: ""A mí el fútbol ya no me emociona mucho""",deportes,0.682,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Julio César Uribe fue agredido por supuestos hinchas de Sporting Cristal a las afueras del estadio Alberto Gallardo,deportes,0.574,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Niño amenaza el crecimiento económico del Perú: el IPE reduce su proyección para 2027 a 3,2%",economia,0.446,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Julio Velarde defiende la meta de inflación de 2% y rechaza que controlar los precios frene el crecimiento,politica,0.375,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Gasolina en Perú: precio subió 40,6% en un año y el petróleo supera los US$105 por barril",economia,0.41,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"BCRP mantiene tasa de referencia en 4,25% por más de un año pese a inflación de 4,5%",economia,0.353,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mis beneficios Club,deportes,0.845,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Voz Universitaria,ciencia_tecnologia,0.369,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Vuelo de libelo,politica,0.568,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Piedra de toque,politica,0.386,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Finanzas Personales,economia,0.676,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Empresas ECNuevo,economia,0.478,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Caminos del Inca,economia,0.408,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Champions League,deportes,0.948,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Peruanos en el mundo,deportes,0.333,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Derecho de autor,politica,0.669,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cuento Dominical,economia,0.38,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Artículos Históricos,politica,0.519,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Adelanto de Ficción,economia,0.458,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Café El Dominical,economia,0.399,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cultura contemporánea,politica,0.353,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Archivo El Comercio,economia,0.539,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Estudios carreras,politica,0.528,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tecnología y ciencias,ciencia_tecnologia,0.957,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Inteligencia Artificial,politica,0.389,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Ruedas y Tuercas,deportes,0.683,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Consejos de Viajes,economia,0.514,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Audiencias Vecinales,deportes,0.35,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Corresponsales escolares,politica,0.332,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Entretenimiento,deportes,0.657,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Principios rectores,politica,0.649,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Buenas prácticas,politica,0.399,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Política integrada de gestión,politica,0.828,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Política de cookies,politica,0.914,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fenómeno El Niño,deportes,0.411,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+U vs. Alianza Atlético,deportes,0.869,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Roberto Sánchez,politica,0.329,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Rafael López Aliaga,politica,0.398,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El voto 31: Este es el escenario que muestra el peso de Obras para el fujimorismo en la delegación de facultades,politica,0.741,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Senado también se la juega, una crónica de Fernando Vivas sobre la pugna por las facultades legislativas",politica,0.793,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Álvaro Vargas Llosa: “EE.UU. nos está ayudando a recuperar la soberanía que las mafias ponen en peligro”,politica,0.668,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Diana Seminario,politica,0.376,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Campaña del “No a la Revocatoria”,politica,0.381,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Caso contra Susana Villarán se encamina a los diez años sin sentencia,politica,0.418,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Karem Barboza Quiroz,deportes,0.462,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Informe recomienda suspender por 120 días a Julián Pérez Mallqui por agresión a su expareja,politica,0.494,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Donald al rojo vivo, una crónica de Fernando Vivas sobre Trump, la ONU y Xi Jin Ping",politica,0.499,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Curiosos con causa, una crónica de Fernando Vivas sobre la prueba PISA",politica,0.442,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Presidente de la Conferencia Episcopal Peruana: “El Papa viene al país a reavivar, a reanimar la esperanza”",politica,0.434,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El nuevo Congreso bicameral  alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",politica,0.465,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Karla Kennedy García,politica,0.378,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fiscalía pide cadena perpetua contra hermanos Quispe Palomino por atentados terroristas en el Vraem,politica,0.515,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cómo entender el Congreso peruano,politica,0.685,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Carlos Meléndez,economia,0.361,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Comisión de Constitución del Senado reanuda este lunes debate sobre el pedido de facultades legislativas,politica,0.503,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Empiecen a gobernar,politica,0.393,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Día1 Summit 2026,economia,0.369,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Precio del dólar,economia,0.569,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Ganadores del Premio Nobel de Economía,economia,0.727,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Hall, Woodford y su mirada microeconómica, ¿cuál es la importancia de su investigación?",economia,0.513,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Christian Silva,politica,0.509,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Indecopi se pronuncia sobre presunta filtración de datos en Interseguro,politica,0.457,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Claudia Inga Martínez,economia,0.457,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sector automotriz,economia,0.63,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Grupo Maquinarias espera cerrar el año con 5.300 unidades vendidas: Nissan, venta de seminuevos y su estrategia",deportes,0.312,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?,economia,0.438,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Superávit comercial del Perú superó los US$30.000 millones entre enero y agosto, según BCRSuperávit comercial del Perú superó los US$30.000 millones entre enero y agosto, según BCR. El saldo fue mayor en US$12.291 millones al del mismo período de 2025. Solo en agosto, las exportaciones crecieron 36,9%, impulsadas principalmente por los mayores precios.",economia,0.589,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Precio del dólar en Perú hoy, domingo 18 de octubre: cuál es el tipo de cambio del día",economia,0.438,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Precio del dólar en Perú: cuál fue el tipo de cambio del sábado 17 de octubre,economia,0.459,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Mayor operación de carga vinculada,economia,0.386,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+BTS en Perú: 15 operaciones aéreas y cerca de 1.000 toneladas de carga detrás de sus conciertos,deportes,0.619,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"BTS en Lima: conciertos generaron más de S/5,8 millones por ventas de alimentos, bebidas y merchandising",politica,0.337,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"BTS en Lima: cómo 118 mil fans pueden mover hasta S/200 millones entre merchandising, restaurantes y más",deportes,0.847,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fiorella Gil Mena,economia,0.446,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Empresa detrás del fenómeno BTS,economia,0.347,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Esta es la historia de HYBE: De una pequeña agencia en crisis a un imperio global del entretenimiento,politica,0.446,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+De residuos y empaques a empoderamiento económico: la estrategia de sostenibilidad de Coca-Cola con tres frentes,economia,0.457,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Huachipa duplica su participación en la venta de terrenos en parques industriales, ¿qué la hace atractiva?",economia,0.343,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Melissa Rodríguez Enciso,politica,0.374,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Exportaciones peruanas crecen 33% a julio: ¿cuánto depende de los altos precios de los metales y qué pasa con los envíos de agro?,economia,0.504,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Xertica.ai apunta a crecer 32% en Perú y acelera su expansión en Europa: ¿qué prepara para 2027?,economia,0.437,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Apenas el 17% de los puntos críticos por el Fenómeno El Niño tiene intervenciones en ejecución,politica,0.378,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Obras viales por más de S/ 5 mil millones están paralizadas o abandonadas, ¿qué servicios básicos están rezagados?",economia,0.332,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cuatro de los diez distritos con más homicidios registran minería informal,politica,0.47,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Deuda de Lima Metropolitana supera 3 veces los ingresos corrientes, ¿cuáles son los principales problemas?",economia,0.415,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"¿Chifa, hamburguesa o chicharrón?: Ayudas estatales y competencia",politica,0.698,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alejandro Falla,politica,0.391,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+AlaCena no tiene precio,deportes,0.736,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Premio Nobel de Economía: la macro es micro,economia,0.824,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El Perú podría producir 5,7 millones toneladas de cobre anualmente, pero, ¿qué falta para lograrlo?",economia,0.44,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Precio del dólar en Perú: cierre del tipo de cambio del viernes 16 de octubre,politica,0.33,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+SwissCham Summit 2026: Líderes empresariales se reúnen para debatir sobre innovación e IA,politica,0.377,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sector Pesquero ante la no autorización de de pesca de anchoveta: “Frente a situaciones extraordinarias se requieren medidas extraordinarias”,politica,0.384,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Wall Street cierra en rojo y el Nasdaq pierde un 4,5% en la semana",deportes,0.392,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El dólar cierra al alza en S/3,43 pese al retroceso de la divisa estadounidense",politica,0.421,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Halloween y Día de la Canción Criolla: celebraciones aumentarían hasta en 12% ventas de las pymes,politica,0.463,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Trabajas por horas? Conoce cómo acceder a una pensión de la ONP con aportes desde S/160,politica,0.425,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"SNP, Produce e Imarpe suscriben convenio de cooperación para una pesca más sostenible",politica,0.354,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+PBI se desacelera en agosto: ¿qué frenó el crecimiento y cuáles son los riesgos para el cierre del año?,economia,0.495,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El dólar abre a la baja en S/3,42 ante debilitamiento de la divisa estadounidense",politica,0.433,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"INEI: producción nacional presenta un crecimiento de 3,23% en agosto del 2026",economia,0.359,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"De consultar saldos a delegar operaciones, ¿cómo cambiará la banca con la IA hacia 2030?",politica,0.387,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Wall Street abre mixto arrastrado por los fabricantes de semiconductores,economia,0.33,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El precio del petróleo de Texas baja 0,31% pendiente de las tensiones en Medio Oriente",politica,0.442,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+MTC plantea reducir la TUUA de transferencia internacional en “no menos del 50%” en el aeropuerto Jorge Chávez,politica,0.339,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+IA y Sandbox regulatorio,deportes,0.427,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Copa Libertadores,deportes,0.87,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El furioso “Que se dedique a administrar” de Guede a Franco Velazco y un Quevedo que reconquistó a Comando Sur: Lo que no se vio del 3-1 que mantiene a Alianza en la pelea,politica,0.53,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fernanda Huapaya,politica,0.396,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"“El jugador peruano tiene un déficit grande en nutrición y táctica que resuelve a los 20 años, eso en Argentina es a los 12″: Urciuoli, el técnico revelación con Alianza Atlético",deportes,0.603,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+“¿A quién le sirve un VAR que funciona con tantas deficiencias?“: Ortiz Bisso y por qué los clubes son solo lamentos y no soluciones con el arbitraje,politica,0.412,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Pedro Ortiz Bisso,politica,0.375,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Partidos de hoy, domingo 18 de octubre del 2026: a qué hora juega y en qué canales ver fútbol en vivo",deportes,0.854,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Joao Muñoz Tineo,politica,0.345,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Perú y el plan Vélez: cuánto cuesta hoy el hallazgo de ‘Mano’ y qué papel juega Alianza en su futuro,politica,0.324,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sporting Cristal ganó 4 - 2 a Comerciantes Unidos y es líder del Torneo Clausura 2026,deportes,0.873,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Ver Movistar PLUS EN VIVO y EN DIRECTO - mira por televisión, Real Madrid-Sevilla por LaLiga",deportes,0.826,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Ver ESPN EN VIVO y EN DIRECTO - mira por televisión, Real Madrid-Sevilla por LaLiga",deportes,0.664,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"¿Dónde ver TV ONLINE, Real Madrid-Sevilla: canales de televisión para mirar LaLiga, EN DIRECTO?",deportes,0.517,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sigue FC Cajamarca vs CD Moquegua EN VIVO: Transmisión del Torneo Clausura,deportes,0.571,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¿Qué canal TV pasa River Plate vs. Belgrano y a qué hora inicia el partido por Liga Argentina?,deportes,0.847,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"ESPN Premium hoy gratis, River Plate vs. Belgrano por la fecha 13 de la Liga Profesional Argentina",deportes,0.895,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Universitario vs. Independiente del Valle: a qué hora juegan y cómo ver partido por Copa Libertadores Femenina 2026,deportes,0.726,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+ASICS Golden Run 2026: así fue la premiación de los ganadores de la competencia | GALERÍA,deportes,0.903,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Con doblete de Hernán Barcos: goles de Sporting Cristal vs. Comerciantes Unidos (4-2) por Torneo Clausura, Liga 1",deportes,0.676,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"¿Dónde ver repetición del partido, Sporting Cristal 4-2 Comerciantes por Torneo Clausura, Liga 1?",deportes,0.872,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tabla de la Liga 1 EN VIVO: así quedó el Torneo Clausura y Acumulado con la victoria de Sporting Cristal,deportes,0.815,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Señal Liga 1 Max en directo - canal que transmite, Universitario vs. Alianza Atlético por Liga 1",deportes,0.928,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Canales TV para ver Universitario vs. Alianza Atlético EN VIVO: a qué hora juegan y dónde ver la Liga 1,deportes,0.793,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"ASICS Golden Run 2026: con el dominio de Jhon Atachagua y Sheyla Eulogio, así fueron los resultados de la competencia",deportes,0.755,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Eduardo Castro gana Caminos del Inca 2026 tras espectacular final en la sexta etapa entre Puno y Arequipa,deportes,0.409,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Luis Iberico marcó el 1-0 de Sporting Cristal vs. Comerciantes Unidos por el Torneo Clausura | VIDEO,deportes,0.705,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Cienciano vs UTC Cajamarca EN VIVO: horario y dónde ver el Torneo Clausura,deportes,0.684,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alianza Lima vs Rebaza Acosta EN VIVO: a qué hora inicia y dónde ver la fecha 1 de la Liga Peruana de Vóley,deportes,0.91,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Insólito! Roban camiseta firmada de Messi durante las protestas en París,politica,0.588,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Marco Quilca León,politica,0.423,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+“Lo importante es que ganamos y con arco en cero”: El mensaje del Dibu Martínez desde el hospital tras operación,deportes,0.366,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+“El árbitro inclinó mucho la cancha. Es imposible jugar al fútbol”: Jostin Alarcón tras derrota de Sport Boys ante Juan Pablo II,deportes,0.522,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+ASICS Golden Run 2026: repasa las mejores postales que dejó la competencia en la Costa Verde,deportes,0.778,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Franco Navarro Mandayo: “En el Clausura de Alianza, hay 7 u 8 jugadas que nos han hecho tener menos puntos”",deportes,0.407,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Pablo Guede arremete contra Franco Velazco: “No sé ni quién es. ¿Habla de fútbol?"" | VIDEO",deportes,0.689,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Ver más de Deporte total,deportes,0.968,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Triunfo en casa! Alianza Lima venció 3-1 a Atlético Grau en Matute | RESUMEN Y GOLES,deportes,0.716,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alianza Lima (3-1) Atlético Grau: resumen y goles del partido por fecha 12 del Torneo Clausura de Liga 1 | VIDEO,deportes,0.679,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+VIDEO: Alianza Lima derrotó a Atlético Grau y se coloca en la lucha por el Torneo Clausura,deportes,0.592,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Golazo! Vélez desparramó rivales y anotó el 3-1 de Alianza en Matute | VIDEO,deportes,0.75,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Apareció la ‘Culebra’: Castillo pone el 2-1 de Alianza ante Grau en Matute | VIDEO,deportes,0.687,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Sorpresa en Matute: Vásquez puso el 1-1 para Grau al cierre del primer tiempo | VIDEO,deportes,0.744,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Melgar venció 4-2 a Deportivo Garcilaso y apretó la tabla del Torneo Clausura de Liga 1 | RESUMEN Y GOLES,deportes,0.792,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+¡Llegó el primero! Quevedo marcó el 1-0 de Alianza ante Atlético Grau | VIDEO,deportes,0.736,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Juan Pablo II venció a Sport Boys 2-0 por la fecha 12 del Torneo Clausura,deportes,0.753,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+“Vamos a dar todo”: Piero Quispe y su mensaje a la hinchada de Universitario de Deportes,deportes,0.842,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fabián Bustos previo al duelo ante Alianza Atlético: “El equipo va a seguir creciendo”,deportes,0.416,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Físico, compromiso y entorno: las razones que alejaron a Piero Cari de Pablo Guede y por qué hoy Alianza vuelve a apostar por él tras casi 5 meses",politica,0.502,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"De Kluiverth en Alianza a Osorio de la ‘U’: la Liga 1 vendió 18 promesas a Europa desde 2020, pero casi la mitad ya regresó al fútbol peruano",deportes,0.6,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Los Chankas derrotó 2-1 a ADT por la fecha 12 del Torneo Clausura de la Liga 1 2026,deportes,0.504,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tesla presenta un Roadster capaz de ‘volar’ y en las redes sociales lo reciben con memes,economia,0.324,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Alemania investiga una presunta agresión sexual con un robot contra joven de 16 años,politica,0.448,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Intel en Latinoamérica: “Los gobiernos deben crear condiciones o reglas para un uso saludable de la IA”,politica,0.393,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Daniel Bedoya Ramos,politica,0.373,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Padre de la IA y otros 224 científicos piden “cambios inmediatos” para su desarrollo y despliegue,ciencia_tecnologia,0.529,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Estafas digitales contra adultos mayores: seis recomendaciones para proteger a padres y abuelos,politica,0.41,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"La IA podría causar “incidentes graves” en uno o dos años, advierte presidente de Google DeepMind",politica,0.354,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"“Grand Theft Auto VI” vuelve con tráiler lleno de acción, robos y sexo",politica,0.7,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Juan Luis  Del Campo,deportes,0.654,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Cambio climático: cómo puede la IA mejorar la previsión meteorológica, más allá de su huella de carbono",ciencia_tecnologia,0.361,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"iPhone Duo se agota a minutos de abierta su preventa, ahora disponibles a partir del 22 de enero",economia,0.327,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Millones de personas podrían tener que abandonar sus hogares por el cambio climático en el sudeste asiático,politica,0.399,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"“Grand Theft Auto VI” lanza un tráiler con una escena de sexo, la ocasión donde esto los metió en problemas",politica,0.49,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Lo hicieron otra vez: agentes de IA intentaron extraer datos de una aplicación de Alibaba,politica,0.323,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Agencia Europa Press,politica,0.588,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+La alerta de seísmos de Google está disponible ya en 200 países de todo el mundo,politica,0.371,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"El consumo elevado de alimentos ultraprocesados está relacionado con daños cerebrales, señala estudio",economia,0.303,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Efecto cine, batería de emergencia o verificación: cinco novedades del iPhone 18",politica,0.295,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+La IA ayuda a los historiadores a descifrar mensajes napoleónicos y papiros carbonizados,politica,0.504,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+La ruta de Tuta: revelan el viaje completo de una ballena jorobada desde Perú hasta la Antártida,deportes,0.41,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Tesla Roadster: Elon Musk presentó un carro eléctrico que puede “volar” y acelerar de 0 a 100 km/h en menos de 1 segundo,economia,0.382,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Ventas de ‘smartphones’ registran una caída del 20%, motivado por la crisis de memoria RAM",politica,0.418,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Videojuego peruano “Dark Rally” abre concurso para convertirte en uno de sus personajes,deportes,0.835,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla, según medios",deportes,0.306,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Malaria y dengue: el cambio climático influye en la expansión de las dos enfermedades transmitidas por mosquitos más comunes en el planeta,politica,0.387,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+YouTube planea incorporar audiolibros en 2027 y ya estaría en conversación con editoriales,politica,0.369,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Solo 45 investigadores peruanos figuran entre los científicos más citados del mundo: la cifra cayó en 2026,ciencia_tecnologia,0.325,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El Niño alcanza niveles récord en el Pacífico antes de llegar a su punto máximo: ¿qué está ocurriendo?,politica,0.31,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+León XIV fue operado de cáncer de pulmón: qué implica la extirpación de un lóbulo y cómo es la recuperación,politica,0.488,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Christian Mestanza Arquiñigo,economia,0.316,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+La IA física y la ciberseguridad dominan la mayor feria de tecnología digital de Japón | FOTOS,ciencia_tecnologia,0.413,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Fenómeno El Niño Costero: ¿cuáles pueden ser las consecuencias para el Perú?,deportes,0.487,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Diego Barrio de Mendoza,politica,0.443,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+El Niño en Perú: no está operativo ninguno de los 18 sistemas de alertas tempranas previstos desde 2017,economia,0.382,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Ver más de Tecnologia,ciencia_tecnologia,0.624,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Google lanza Gemini 4 Argon, su nuevo modelo de frontera que supera a GPT-6 Astra y Claude Opus 5.5",deportes,0.402,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Epic, creadora de Fortnite, da un “giro” hacia el uso de la IA",deportes,0.397,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Maia 300, el nuevo chip de Microsoft para escalar su infraestructura de IA que llegará en 2027",economia,0.323,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Meta presenta nuevo modelo de IA y afirma que está al nivel de OpenAI y Anthropic,deportes,0.464,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Bill Gates: el verdadero peligro de la IA es “que personas malintencionadas la utilicen”,politica,0.514,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Científicos descubren cómo predecir cuándo una inteligencia artificial dará respuestas peligrosas,ciencia_tecnologia,0.822,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Microsoft y Nvidia impulsan una nueva categoría de computadoras para la IA con el superchip RTX Spark,politica,0.327,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"EVA, un proyecto que potencia la detección temprana del cáncer de mama en el Perú usando la IA",politica,0.312,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Ben Affleck se revela como un entusiasta y experto en inteligencia artificial,ciencia_tecnologia,0.466,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Francis Halzen, el nuevo premio nobel de Física, cuenta que usa la IA desde los 90: “Estoy muy orgulloso”",deportes,0.722,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Anthropic prohíbe el comportamiento “cruel” hacia su inteligencia artificial Claude,politica,0.439,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Por qué China considera una amenaza la IA que imita las relaciones humanas,politica,0.564,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"ChatGPT para adolescentes falla en seguridad y presenta “riesgos inaceptables”, según Common Sense Media",politica,0.563,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+Condenado a prisión un músico por usar bots para inflar reproducciones de canciones generadas por IA,politica,0.439,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
+"Google lanza una herramienta web para identificar fotos, videos y audios generados con IA",politica,0.306,Recognai/bert-base-spanish-wwm-cased-xnli,2026-10-18
