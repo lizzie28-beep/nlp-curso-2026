@@ -1,0 +1,10 @@
+{
+  "escenas": [
+    {"frase": "El reporte de setiembre de la Defensoría del Pueblo registra ciento noventa y tres conflictos sociales en todo el país.", "cifra": "193", "etiqueta": "Conflictos sociales registrados"},
+    {"frase": "De ellos, ciento cuarenta y cuatro están activos. Son el setenta y cuatro coma seis por ciento del total.", "cifra": "74.6%", "etiqueta": "Conflictos que siguen activos"},
+    {"frase": "Casi la mitad son socioambientales: el cuarenta y siete coma dos por ciento de los casos, con la minería como principal tema.", "cifra": "47.2%", "etiqueta": "Casos socioambientales"},
+    {"frase": "Puno, Loreto y Áncash concentran el veintiocho coma cinco por ciento de los conflictos del país.", "cifra": "28.5%", "etiqueta": "Concentrado en tres regiones"},
+    {"frase": "En el mismo mes, la Defensoría registró ciento cincuenta y una acciones colectivas de protesta.", "cifra": "151", "etiqueta": "Acciones de protesta en el mes"},
+    {"frase": "La Defensoría realizó doscientas cincuenta y siete actuaciones. Según el reporte, en setiembre no se resolvió ningún caso.", "cifra": "257", "etiqueta": "Actuaciones defensoriales"}
+  ]
+}
