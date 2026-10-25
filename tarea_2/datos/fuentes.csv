@@ -1,26 +1,26 @@
 id,modalidad,fuente_url,licencia,acceso
-doc_001,documento,,,
-doc_002,documento,,,
-doc_003,documento,,,
-doc_004,documento,,,
-doc_005,documento,,,
-doc_006,documento,,,
-doc_007,documento,,,
-doc_008,documento,,,
-doc_009,documento,,,
-doc_010,documento,,,
-doc_011,documento,,,
-doc_012,documento,,,
-doc_013,documento,,,
-doc_014,documento,,,
-doc_015,documento,,,
-doc_016,documento,,,
-doc_017,documento,,,
-doc_018,documento,,,
-doc_019,documento,,,
-doc_020,documento,,,
-doc_021,documento,,,
-doc_022,documento,,,
-doc_023,documento,,,
-doc_024,documento,,,
-doc_025,documento,,,
+doc_001,documento,https://www.oas.org/juridico/spanish/per_res17.pdf,"norma oficial (DL 822, art. 9)",URL pública
+doc_002,documento,https://www.oas.org/juridico/spanish/per_res17.pdf,"norma oficial (DL 822, art. 9)",URL pública
+doc_003,documento,https://ciup.up.edu.pe/analisis/reformas-para-recuperar-institucionalidad-y-estabilidad/,"acceso abierto, sin licencia de reutilización visible (© Universidad del Pacífico); uso académico solo para OCR",URL pública; imagen no publicada
+doc_004,documento,https://ciup.up.edu.pe/analisis/reformas-para-recuperar-institucionalidad-y-estabilidad/,"acceso abierto, sin licencia de reutilización visible (© Universidad del Pacífico); uso académico solo para OCR",URL pública; imagen no publicada
+doc_005,documento,https://repositorio.up.edu.pe/backend/api/core/bitstreams/09a61c4e-748e-4242-9f61-f3400c64cf44/content,acceso abierto en repositorio UP; licencia específica no verificada; uso académico solo para OCR,URL pública; imagen no publicada
+doc_006,documento,https://img.lpderecho.pe/wp-content/uploads/2024/01/Exp.-0006-2009-PI-TC-LPDerecho.pdf,"norma oficial (DL 822, art. 9)",URL pública (copia LP Derecho)
+doc_007,documento,https://img.lpderecho.pe/wp-content/uploads/2024/01/Exp.-0006-2009-PI-TC-LPDerecho.pdf,"norma oficial (DL 822, art. 9)",URL pública (copia LP Derecho)
+doc_008,documento,https://www.minam.gob.pe/wp-content/uploads/2013/08/plana_2011_al_2021.pdf,"norma oficial (DL 822, art. 9) (plan aprobado por decreto supremo)",URL pública
+doc_009,documento,"foto propia de página de libro: Los doce apóstoles de la economía peruana, Francisco Durand","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_010,documento,"foto propia de página de libro: Conservadurismo, Robert Nisbet","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_011,documento,"foto propia de página de libro: La ilegitimidad del poder político en el Perú, Jorge Aragón y Diego Sánchez","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_012,documento,"foto propia de página de libro: Conflicto Armado Interno mediante el Pensamiento Clásico, Anónimo","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_013,documento,"foto propia de página de libro: La ilegitimidad del poder político en el Perú, Jorge Aragón y Diego Sánchez","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_014,documento,"foto propia de página de libro: La ilegitimidad del poder político en el Perú, Jorge Aragón y Diego Sánchez","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_015,documento,"foto propia de página de libro: El cuento de la criada, Margaret Atwood","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_016,documento,"foto propia de página de libro: La ilegitimidad del poder político en el Perú, Jorge Aragón y Diego Sánchez","foto propia; texto con derechos de autor del libro, uso académico solo para OCR (no se publica imagen ni texto completo)","archivo propio, no público"
+doc_017,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_018,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_019,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_020,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_021,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_022,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_023,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_024,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
+doc_025,documento,captura propia,"captura propia, texto ficticio","archivo propio, no público"
